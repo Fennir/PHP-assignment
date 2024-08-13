@@ -1,5 +1,6 @@
 # PHP-assignment
 This is my assignment on my programming language (PHP). This assignment requires me to implement a CRUD method while having MySQL as local database.
+This assignment also requires me to use prepared statement
 
 How to run it?
 - Make sure you have your environment 
